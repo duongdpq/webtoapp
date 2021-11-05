@@ -4,18 +4,17 @@
         "url": "https:\/\/lis.vnptcamau.vn\/",
         "appLanuguage": "en",
         "isJavascriptEnable": "true",
-        "isSplashScreen": "true",
+        "isSplashScreen": "false",
         "isZoomFunctionality": "false",
         "navigationStyle": "sidedrawer",
         "header_style": "left",
         "is_walkthrough": "true",
-        "is_webrtc": "false",
-        "is_floating_button": "true",
+        "is_webrtc": "true",
+        "is_floating_button": "false",
         "floating_button_style": "regular",
         "is_pull_refresh": "true",
         "tab_style": "simple_tab",
-        "clear_cookie": "false",
-        "app_logo": "http:\/\/webtoapp.test\/upload\/app_logo.png"
+        "clear_cookie": "false"
     },
     "admob": {
         "admobBannerID": "",
