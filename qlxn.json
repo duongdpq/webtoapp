@@ -6,7 +6,7 @@
         "isJavascriptEnable": "true",
         "isSplashScreen": "false",
         "isZoomFunctionality": "false",
-        "navigationStyle": "sidedrawer",
+        "navigationStyle": "fullscreen",
         "header_style": "empty_header",
         "is_walkthrough": "true",
         "is_webrtc": "true",
